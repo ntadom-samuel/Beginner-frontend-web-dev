@@ -1,6 +1,5 @@
-# Web_Dev_Projects
+This repository contains my first two web development projects
 
-This repository contains my independent web development projects, which include
 # Photography hub-- created with HTML, CSS, and Vanilla JavaScript
 ## Video
 <div>
