@@ -1,4 +1,4 @@
-This contains projects that I used vanilla JavaScript, ES6 Classes, and DOM manipulation to create
+This contains projects that I used tools and concepts like vanilla JavaScript, ES6 Classes, Event-driven programming, and DOM manipulation to create
 
 **Photography hub**
 - HTML, CSS, and Vanilla JavaScript
